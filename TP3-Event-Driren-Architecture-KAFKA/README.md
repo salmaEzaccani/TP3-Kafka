@@ -5,7 +5,7 @@
 <img src="capturess/img.png">
 
 
-# 2- Utilisation de Docker avec Kafka
+
 
 ## Étapes d'utilisation
 
